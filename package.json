@@ -1,0 +1,27 @@
+{
+  "name": "ui-interaction",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "bin": "./app.js",
+  "license": "ISC",
+  "pkg": {
+    "assets": "core/index.html"
+  },
+  "dependencies": {
+    "arraylist": "^0.1.0",
+    "crc": "^3.8.0",
+    "ejs": "^2.6.2",
+    "express": "^4.17.1",
+    "mssql": "^5.1.0",
+    "ng-init": "^4.0.1",
+    "node-datetime": "^2.1.2",
+    "pem": "^1.14.3",
+    "pkg": "^4.4.0",
+    "socket.io-client": "^2.3.0"
+  }
+}
